@@ -1,1 +1,1 @@
-# AUT-AI-Grad-Resources
+# AUT – Graduate AI Course Resources
