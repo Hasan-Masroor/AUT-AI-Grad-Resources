@@ -4,7 +4,7 @@ This repository provides a collection of handwritten lecture notes and past exam
 
 The available materials vary by course and may include handwritten notes, past examination papers, or both, offering students additional resources for studying and exam preparation.
 
-## Courses and Instructors
+## 📚 Courses and Instructors
 
 The following courses are currently represented in this repository:
 
@@ -22,15 +22,17 @@ The following courses are currently represented in this repository:
 | Big Data Analytics | Dr. Mostafa Haghir Chehreghani |
 | Complex Networks | Dr. Mostafa Haghir Chehreghani |
 
-## Updates and Maintenance
+## 🔄 Updates and Maintenance
 
 This repository will be updated gradually as additional notes, examination materials, and other relevant resources become available.
 
-## Contributions and Contact
+**If you find this repository useful, consider giving it a ⭐ Star on GitHub to support its continued growth and maintenance.**
+
+
+## 🤝 Contributions and Contact
 
 Suggestions, corrections, and additional course materials are welcome. If you would like to contribute to or help improve this repository, feel free to reach out via email or Telegram:
 
 - **Email:** h.masroor28@gmail.com
 - **Telegram:** @hsn_msr
-
-If you find this repository useful, consider giving it a ⭐ Star on GitHub to support its continued growth and maintenance.
+  
